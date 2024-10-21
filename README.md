@@ -1,6 +1,6 @@
 Hello, 
 This is Sudipta Roy Akash. I am a CSE student.
-email: sudiptorobakash@gmail.com | Phone: +8801686902689 |Personal Website: www.sudiptoroy.com
+email: dev@sudiptaroy.info | Phone: +8801686902689 |Personal Website: www.sudiptoroy.com
 
 Any types of programing type problems i can give you the solution.
 
